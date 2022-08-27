@@ -4,7 +4,7 @@ I'm a tech enthusiast, passionate about learning new technologies and making thi
 
 
 # mySkills
-→ HTML5 
+→ HTML5 \n
 → CSS3
 → JavaScript (ES5+)
 → ReactJS
