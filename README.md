@@ -3,7 +3,7 @@ Hello👋, my name is
 I'm a tech enthusiast, passionate about learning new technologies and making things creatively. Besides that I aim to use my knowledge on developing creative and minimalistic user-interfaces.
 
 
-# mySkills
+# mySkills 🤹🏻
 → HTML5 <br/>
 → CSS3 <br/>
 → JavaScript (ES5+) <br/>
