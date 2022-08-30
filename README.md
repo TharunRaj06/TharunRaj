@@ -7,5 +7,9 @@ I'm a tech enthusiast, passionate about learning new technologies and making thi
 → HTML5 <br/>
 → CSS3 <br/>
 → JavaScript (ES5+) <br/>
-→ ReactJS <br/>
+→ ReactJS(basics) <br/>
 → Python <br/>
+
+
+# contact 📞
+  LinkedIn → www.linkedin.com/in/tharun-raj-6006
